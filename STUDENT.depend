@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1632780466 source:c:\users\mr wolfgang\documents\c projects\student\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STUDENT.h"
+	<string.h>
+
+1632698307 source:c:\users\mr wolfgang\documents\c projects\student\student.c
+	<string.h>
+	<stdio.h>
+	"STUDENT.h"
+
+1632617487 c:\users\mr wolfgang\documents\c projects\student\student.h
+	<stdio.h>
+	<string.h>
+
+1632776866 source:e:\ex documents ssd\c projects\student\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STUDENT.h"
+	<string.h>
+
+1632613887 e:\ex documents ssd\c projects\student\student.h
+	<stdio.h>
+	<string.h>
+
+1632694707 source:e:\ex documents ssd\c projects\student\student.c
+	<string.h>
+	<stdio.h>
+	"STUDENT.h"
+
